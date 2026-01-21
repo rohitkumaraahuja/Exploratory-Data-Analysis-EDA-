@@ -1,7 +1,6 @@
-Exploratory Data Analysis on Car Dataset
-Using Python, Pandas & Matplotlib
-        📌 Project Overview
+Exploratory Data Analysis on Car Dataset Using Python, Pandas & Matplotlib
 
+Project Overview
 This project focuses on Exploratory Data Analysis (EDA) of a real-world automobile dataset using Python. The goal is to understand patterns, trends, and relationships within car data by applying data analysis and visualization techniques.
 
 The dataset contains 11,900+ records covering various car features such as engine performance, fuel efficiency, price, and manufacturer details.
